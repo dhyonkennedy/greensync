@@ -22,3 +22,33 @@ O GreenSync é uma plataforma web de gestão participativa voltada para condomí
 
 ## 👥 Autores
 Trabalho de Conclusão de Curso (TCC) desenvolvido no Centro Universitário FAMETRO, elaborado pelos autores Dhyon Kennedy Dias dos Santos e André Rodhis dos Santos, 2026[cite: 1].
+
+Imagens do projeto
+
+Painel geral
+
+<img width="1917" height="896" alt="Captura de tela 2026-09-13 160718" src="https://github.com/user-attachments/assets/5d73f888-2f1b-47f5-8b9e-7666160ea0dc" />
+
+
+
+Resíduos
+
+<img width="1600" height="899" alt="WhatsApp Image 2026-10-28 at 21 09 28" src="https://github.com/user-attachments/assets/9d82e8a9-b5a6-45f2-b314-0a05365b9a5e" />
+
+
+
+Gamificação
+
+<img width="1600" height="899" alt="WhatsApp Image 2026-10-28 at 21 09 29 (1)" src="https://github.com/user-attachments/assets/e4fbd5bf-3cf3-40e6-b34b-8c4a05c26cb5" />
+
+
+
+Comunidade
+
+<img width="1600" height="895" alt="WhatsApp Image 2026-11-14 at 21 05 26" src="https://github.com/user-attachments/assets/c6190ded-fda2-4b29-a000-b4f46c31b325" />
+
+
+
+Vídeo de demonstração
+
+https://github.com/user-attachments/assets/51f0e84b-d452-4f34-8331-494a9c75adc6
